@@ -44,6 +44,7 @@ Open source first. Native cloud consoles are free with the account; third-party 
 | [AWS Cloud Intelligence Dashboards](https://www.wellarchitectedlabs.com/cloud-intelligence-dashboards/) | OSS (AWS) | Deployable CUDOS / CID stacks that turn CUR into executive-ready views |
 | [OptScale](https://github.com/hystax/optscale) | OSS | Self-hostable FinOps + MLOps cost platform (Hystax); SaaS option exists |
 | [Vantage](https://www.vantage.sh/) | SaaS | Multi-cloud cost UI with clean reports; free tier for smaller footprints |
+| [VPSLedger](https://vpsledger.pages.dev/) | Free web + OSS data | VPS true-cost comparison (list price plus IPv4, backups and egress) with sourced dated prices and open JSON (CC BY 4.0) |
 | [CloudZero](https://www.cloudzero.com/) | SaaS | Unit-cost / “cost as a product metric” framing beyond raw bills |
 | [IBM Cloudability](https://www.apptio.com/products/cloudability/) | SaaS | Enterprise multi-cloud FinOps reporting under Apptio / IBM |
 | [Finout](https://www.finout.io/) | SaaS | Virtual tagging and allocation when real tags are messy |
